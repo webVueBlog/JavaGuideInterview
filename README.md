@@ -22,3 +22,4 @@
 3. [springboot第3集：springboot中创建多个模块创建，关联，后续如何打包呢](https://mp.weixin.qq.com/s/KQRwl_GTltYMt2fvy8swbA)
 4. [springboot第4集：springboot模块化开发与项目搭建流程](https://mp.weixin.qq.com/s/JvY-h1UJsfZpSwWVfD1lUw)
 5. [springboot第5集：如何让多模块的项目结构更加清晰、易于理解](https://mp.weixin.qq.com/s/7LrgyEx6NFDjYnZyXo8j0w)
+6. [springboot第6集：PO、VO、DAO、BO、DTO、POJO 能分清吗？](https://mp.weixin.qq.com/s/tGWzLlJIyw6zAY7mc4tKLQ)
