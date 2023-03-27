@@ -24,3 +24,4 @@
 5. [springboot第5集：如何让多模块的项目结构更加清晰、易于理解](https://mp.weixin.qq.com/s/7LrgyEx6NFDjYnZyXo8j0w)
 6. [springboot第6集：PO、VO、DAO、BO、DTO、POJO 能分清吗？](https://mp.weixin.qq.com/s/tGWzLlJIyw6zAY7mc4tKLQ)
 7. [springboot第7集：控制反转(IoC)与依赖注入(DI)](https://mp.weixin.qq.com/s/EJNrKSh652UEjUA-A9l9rQ)
+8. [springboot第8集：示例代码案例详细解释内容](https://mp.weixin.qq.com/s/O-2vNTZLGxaFmLTkNPnZRA)
