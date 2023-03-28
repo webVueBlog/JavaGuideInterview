@@ -25,3 +25,4 @@
 6. [springboot第6集：PO、VO、DAO、BO、DTO、POJO 能分清吗？](https://mp.weixin.qq.com/s/tGWzLlJIyw6zAY7mc4tKLQ)
 7. [springboot第7集：控制反转(IoC)与依赖注入(DI)](https://mp.weixin.qq.com/s/EJNrKSh652UEjUA-A9l9rQ)
 8. [springboot第8集：示例代码案例详细解释内容](https://mp.weixin.qq.com/s/O-2vNTZLGxaFmLTkNPnZRA)
+9. [springboot第9集：基础项目功能简介带你入门挖坑](https://mp.weixin.qq.com/s/RutWilclfcU9rdtU9iK75w)
