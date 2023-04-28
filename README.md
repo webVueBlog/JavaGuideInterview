@@ -15,6 +15,13 @@
 
 《论语》，曾子曰：“吾日三省吾身”（我每天多次反省自己）。
 
+## 知识点
+
+- PO持久化对象：数据库记录entity，一一与数据库记录对应。
+- BO业务对象：前端业务请求、应用内部业务逻辑对象，以及所有非PO场景。
+- VO值对象：返回前端结果
+- DTO数据传输对象: 对外API的返回对象，或者系统间(非应用间)传输
+
 ## Springboot
 
 1. [springboot第1集：由springboot的dto拓展的内容](https://mp.weixin.qq.com/s/-Gp_jXquAv0qO7809_Q8kw)
