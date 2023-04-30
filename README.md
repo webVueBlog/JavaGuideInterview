@@ -35,3 +35,4 @@
 9. [springboot第9集：基础项目功能简介带你入门挖坑](https://mp.weixin.qq.com/s/RutWilclfcU9rdtU9iK75w)
 10. [springboot第10集：服务端部署](https://mp.weixin.qq.com/s/7LZUMjsHwbTriLlYnXeNHg)
 11. [springboot第11集：Spring Boot整理大纲与数据结构实战](https://mp.weixin.qq.com/s/DCywU3RjAtl2F7xq5pgV2Q)
+12. [springboot第12集：DAO功能代码](https://mp.weixin.qq.com/s/H7H-PtGxKoKuAaIBMG6DQA)
