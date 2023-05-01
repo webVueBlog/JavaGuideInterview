@@ -36,3 +36,4 @@
 10. [springboot第10集：服务端部署](https://mp.weixin.qq.com/s/7LZUMjsHwbTriLlYnXeNHg)
 11. [springboot第11集：Spring Boot整理大纲与数据结构实战](https://mp.weixin.qq.com/s/DCywU3RjAtl2F7xq5pgV2Q)
 12. [springboot第12集：DAO功能代码](https://mp.weixin.qq.com/s/H7H-PtGxKoKuAaIBMG6DQA)
+13. [springboot第13集：MyBatis讲解](https://mp.weixin.qq.com/s/4yfUK2vj7icyVzjJbnWdvw)
