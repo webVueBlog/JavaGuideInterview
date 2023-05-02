@@ -38,3 +38,4 @@
 12. [springboot第12集：DAO功能代码](https://mp.weixin.qq.com/s/H7H-PtGxKoKuAaIBMG6DQA)
 13. [springboot第13集：MyBatis讲解](https://mp.weixin.qq.com/s/4yfUK2vj7icyVzjJbnWdvw)
 14. [springboot第14集：MyBatis-CRUD讲解](https://mp.weixin.qq.com/s/hi38hxiimUWkgc9cdBAh2Q)
+15. [springboot第15集：MyBatis分页](https://mp.weixin.qq.com/s/SZPTfDvs94chmMUoe9O2ag)
