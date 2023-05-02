@@ -37,3 +37,4 @@
 11. [springboot第11集：Spring Boot整理大纲与数据结构实战](https://mp.weixin.qq.com/s/DCywU3RjAtl2F7xq5pgV2Q)
 12. [springboot第12集：DAO功能代码](https://mp.weixin.qq.com/s/H7H-PtGxKoKuAaIBMG6DQA)
 13. [springboot第13集：MyBatis讲解](https://mp.weixin.qq.com/s/4yfUK2vj7icyVzjJbnWdvw)
+14. [springboot第14集：MyBatis-CRUD讲解](https://mp.weixin.qq.com/s/hi38hxiimUWkgc9cdBAh2Q)
