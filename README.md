@@ -46,3 +46,5 @@ https://webvueblog.github.io/JavaGuideInterview/
 16. [springboot第16集：一对多，多对一，SQL缓存](https://mp.weixin.qq.com/s/qPIyVPskd4MgLr9Os3rXLw)
 17. [springboot第17集：Spring我的春天](https://mp.weixin.qq.com/s/DIQ_9cTl5rNrKTzmuOp4cQ)
 18. [springboot第18集：SpringMVC我的春天](https://mp.weixin.qq.com/s/6cjUqMNiNkNYuwwvQBjfZg)
+19. [springboot第19集：权限](https://mp.weixin.qq.com/s/Q7LJpFfkkoXCt8mfhipD1g)
+20. [springboot第20集：Dubbo](https://mp.weixin.qq.com/s/xivZcKw5xWcrN9S86l8Xvw)
