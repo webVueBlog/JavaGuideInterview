@@ -48,3 +48,4 @@ https://webvueblog.github.io/JavaGuideInterview/
 18. [springboot第18集：SpringMVC我的春天](https://mp.weixin.qq.com/s/6cjUqMNiNkNYuwwvQBjfZg)
 19. [springboot第19集：权限](https://mp.weixin.qq.com/s/Q7LJpFfkkoXCt8mfhipD1g)
 20. [springboot第20集：Dubbo](https://mp.weixin.qq.com/s/xivZcKw5xWcrN9S86l8Xvw)
+21. [springboot第21集：SSO](https://mp.weixin.qq.com/s/awykJ7X-0xuDL4PbL_zMuA)
