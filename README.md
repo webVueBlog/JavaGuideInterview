@@ -21,6 +21,8 @@ https://webvueblog.github.io/JavaGuideInterview/
 
 ## 知识点
 
+![Redis思维导图](https://github.com/webVueBlog/JavaGuideInterview/assets/59645426/f3451708-ccb6-4cdf-8d04-e13b0e680df3)
+
 - PO持久化对象：数据库记录entity，一一与数据库记录对应。
 - BO业务对象：前端业务请求、应用内部业务逻辑对象，以及所有非PO场景。
 - VO值对象：返回前端结果
