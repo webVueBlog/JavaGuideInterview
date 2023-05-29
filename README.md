@@ -53,3 +53,4 @@ https://webvueblog.github.io/JavaGuideInterview/
 21. [springboot第21集：SSO](https://mp.weixin.qq.com/s/awykJ7X-0xuDL4PbL_zMuA)
 22. [springboot第22集：security，Lombok，token，redis](https://mp.weixin.qq.com/s/_9usm69nlfVZkn0EsrWAYg)
 23. [springboot第23集：login与register代码流程](https://mp.weixin.qq.com/s/iq2A7AaQLkLsqljDTk6cZw)
+24. [springboot第24集：架构mongodbmanager，Redis，Mybatis，Spring Security](https://mp.weixin.qq.com/s/-0Yf2IZQJ3a5lXioRTpmIg)
